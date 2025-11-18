@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/ice-cream-parlour-manager-275-284/frontend_react"
+}
